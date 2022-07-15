@@ -1,6 +1,6 @@
 {
   "name": "little-insomniac",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Create custom text snippets that you can access on all of your devices",
   "main": "./dist/index.js",
   "scripts": {
@@ -16,8 +16,8 @@
   },
   "keywords": [
     "little-insomniac",
-    "snippet manager",
-    "text expander",
+    "anti-sleep app",
+    "prevent computer sleep",
     "nodejs",
     "front end"
   ],
