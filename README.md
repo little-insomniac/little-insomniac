@@ -76,7 +76,7 @@ curl -X POST https://api.littleinsomniac.com
 ```
 
 ## What Can Little Insomniac do?
-Little Insomniac is a free text snippet manager that lets you [create custom text snippets](https://littleinsomniac.com) that you can access on all of your devices!
+Little Insomniac is a free anti-sleep app that lets you [prevent computer sleep](https://littleinsomniac.com) on all of your devices!
 
 ## Final Words
 If you are still having difficulty, we would love for you to post
